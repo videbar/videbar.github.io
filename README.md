@@ -8,7 +8,7 @@ https://github.com/panr/hugo-theme-terminal).
 
 # Theme modifications
 
-I modified the original them because I want to have a set of features on my website:
+I modified the original theme because I want to have a set of features on my website:
 
 * I want to use the [Nord Theme](https://www.nordtheme.com/) for the colour palette.
 
@@ -17,8 +17,8 @@ I modified the original them because I want to have a set of features on my webs
 
 * I want to use a different font. I ended up going for [Iosevka](https://typeof.net/Iosevka/).
 
-* Some minor changes like changing the symbol used for lists or adding a link to the
-blog archive at the end of blog pagination and changing the style of code blocks.
+* Some minor changes like changing the symbol used for lists, adding a link to the
+blog archive at the end of blog pagination, and changing the style of code blocks.
 
 # Deployment
 
