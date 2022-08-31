@@ -17,7 +17,7 @@ worked on in the past. You can also have a look at [my blog](@/blog/_index.md), 
 will be uploading stuff at an irregular and unpredictable rate. You can even subscribe
 to [the rss feed](https://www.vide.bar/rss.xml).
 
-**Github**: [github.com/videbar](https://www.github.com/videbar)
+**Contact:** <pedro@vide.bar>
 
 
 
