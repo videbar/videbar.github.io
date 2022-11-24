@@ -1,7 +1,6 @@
 +++
 title = "Building a Python CLI application to manage my bookmarks"
 date = 2022-06-20
-
 +++
 
 Recently, I have started to highlight text in my Kobo ereader as I go through a book.
