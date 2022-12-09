@@ -1,6 +1,6 @@
 +++
 title = "Implemeting Conway's Game of Life on a Microbit board using Rust "
-date = 2022-11-20
+date = 2022-12-09
 +++
 As part of my experience learning embedded programming in Rust, I implemented 
 [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway's_Game_of_Life) on a
