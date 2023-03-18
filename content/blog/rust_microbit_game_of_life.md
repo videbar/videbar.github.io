@@ -432,7 +432,7 @@ One problem I encountered was that [the Microbit crate's Board](
 https://docs.rs/microbit-v2/0.13.0/microbit/board/struct.Board.html) only implements
 one of the RTCs (RTC0), even though the other two are available at [the PAC](
 https://docs.rs/microbit-v2/0.13.0/microbit/hal/pac/index.html). Because of this, I had
-to defined my own board struct with all the peripherals that I used in this project.
+to defined my own board `struct` with all the peripherals that I used in this project.
 
 # Sump up
 
@@ -451,3 +451,8 @@ The entire code for this project can be found [on my github](
 https://github.com/videbar/The-Game-of-Life-in-embedded-Rust), since it was a learning
 project, there's plenty of comments going in detail about the different aspects of the
 implementation.
+
+***
+**Update:** I opened a pull request on the Microbit crate repository to add the missing
+RTCs, and it has already been merged. The real time counters RTC1 and RTC2 should
+be available through the crate's board `struct`, once the changes are published.
