@@ -59,6 +59,8 @@ a {
 img {
   display: block;
   max-width: 100%;
+  margin-top: 40px;
+  margin-bottom: 40px;
 
   &.left {
     margin-right: auto;
@@ -137,7 +139,8 @@ pre {
   padding: 20px;
   font-size: .95rem;
   overflow: auto;
-  border: 1px solid var(--accent);
+  margin-top: 40px;
+  margin-bottom: 40px;
 
   @media (max-width: $phone-max-width) {
     white-space: pre-wrap;
