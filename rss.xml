@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+      <title>videbar</title>
+      <link>https://www.vide.bar</link>
+      <description></description>
+      <generator>Zola</generator>
+      <language>en</language>
+      <atom:link href="https://www.vide.bar/rss.xml" rel="self" type="application/rss+xml"/>
+      <lastBuildDate>Sat, 18 May 2024 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>How to build a license plate recognition system</title>
+          <pubDate>Sat, 18 May 2024 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://www.vide.bar/blog/license-plate-recognition-system/</link>
+          <guid>https://www.vide.bar/blog/license-plate-recognition-system/</guid>
+          <description>&lt;p&gt;As I&#x27;m learning about computer vision, I built a prototype of a license plate
+recognition system to get familiar with some of the tools and concepts used the field.
+This is a summary of how I built such as a system and how it works.&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>Implemeting Conway&#x27;s Game of Life on a Microbit board using Rust </title>
+          <pubDate>Fri, 09 Dec 2022 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://www.vide.bar/blog/rust-microbit-game-of-life/</link>
+          <guid>https://www.vide.bar/blog/rust-microbit-game-of-life/</guid>
+          <description>&lt;p&gt;As part of my experience learning embedded programming in Rust, I implemented 
+&lt;a href=&quot;https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Conway&amp;#x27;s_Game_of_Life&quot;&gt;Conway&#x27;s Game of Life&lt;&#x2F;a&gt; on a
+&lt;a href=&quot;https:&#x2F;&#x2F;tech.microbit.org&#x2F;hardware&#x2F;&quot;&gt;microbit-v2&lt;&#x2F;a&gt; board. This was a nice little project
+that helped me get familiar with different aspects of the
+&lt;a href=&quot;https:&#x2F;&#x2F;crates.io&#x2F;crates&#x2F;microbit&quot;&gt;microbit board support crate&lt;&#x2F;a&gt; and more general
+aspects of embedded programming such as concurrency and interrupts.&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>Building a Python CLI application to manage my bookmarks</title>
+          <pubDate>Mon, 20 Jun 2022 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://www.vide.bar/blog/python-kobo-highlights/</link>
+          <guid>https://www.vide.bar/blog/python-kobo-highlights/</guid>
+          <description>&lt;p&gt;Recently, I have started to highlight text in my Kobo ereader as I go through a book.
+Once I&#x27;ve created a few bookmarks, I would like to somehow import them to my computer,
+ideally in a format such as markdown (since I like to use &lt;a href=&quot;https:&#x2F;&#x2F;obsidian.md&#x2F;&quot;&gt;Obsidian&lt;&#x2F;a&gt; to organise my notes), so I built &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;videbar&#x2F;kobo-highlights&quot;&gt;a small program&lt;&#x2F;a&gt; do it.&lt;&#x2F;p&gt;
+</description>
+      </item>
+    </channel>
+</rss>
