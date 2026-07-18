@@ -6,8 +6,8 @@ title = "videbar"
 compile_sass = true
 
 # RSS feed for the blog
-generate_feed = true
-feed_filename = "rss.xml"
+generate_feeds = true
+feed_filenames = ["rss.xml"]
 
 # Optional: enable tags, they are available at base_url/tags
 # taxonomies = [
@@ -15,17 +15,20 @@ feed_filename = "rss.xml"
 # ]
 
 [markdown]
-# Code highlighting
-highlight_code = true
+
+highlighting.error_on_missing_language = true
+highlighting.extra_themes = ["extra-highlight-themes/catppuccin-mocha.json"]
+highlighting.theme = "catppuccin-mocha"
+
+
+
 # Custom theme
-extra_syntaxes_and_themes = ["extra-highlight-themes"]
-highlight_theme = "darker-nord"
 
 [extra]
 
 # One of: blue, green, orange, pink, red, yellow.
 # Defaults to blue.
-accent_color = "blue"
+accent_color = "orange"
 
 # The logo text - defaults to "Terminimal theme"
 logo_text = "/videbar"
@@ -62,7 +65,7 @@ enable_post_view_navigation = true
 # The text shown at the bottom of a post,
 # before earlier/later post links.
 # Defaults to "Thanks for reading! Read other posts?"
-post_view_navigation_prompt = "Thanks for reading! Read other posts?"
+post_view_navigation_prompt = "Do you want to read something else?"
 
 # Optional: Global favicon URL and mimetype.
 #           Mimetype defaults to "image/x-icon".
