@@ -10,14 +10,15 @@ https://github.com/panr/hugo-theme-terminal).
 
 I modified the original theme because I want to have a set of features on my website:
 
-* I want to use the [Nord Theme](https://www.nordtheme.com/) for the colour palette.
+- I used a custom theme based on [Catppuccin](https://catppuccin.com/).
 
-* I want to have a landing page with some information about me, which is different
+- I want to have a landing page with some information about me, which is different
   from the blog page.
 
-* I want to use a different font. I ended up going for [Iosevka](https://typeof.net/Iosevka/).
+- I want to use a different font. I ended up going for [Iosevka](
+https://typeof.net/Iosevka/).
 
-* Some minor changes like changing the symbol used for lists, adding a link to the
+- Some minor changes like changing the symbol used for lists, adding a link to the
 blog archive at the end of blog pagination, and changing the style of code blocks.
 
 # Deployment
@@ -36,6 +37,7 @@ to format and display that content is licensed under the
 The license of the original Terminimal Theme is included in [LICENSE-terminimal](
 LICENSE-terminimal).
 
-The license of the Nord Theme is included in [LICENSE-nord](LICENSE-terminimal).
+The license of the Catppuccin theme is included in [LICENSE-catppuccin](
+LICENSE-catppuccin).
 
-The license of the Iosevka font is included in [LICENSE-iosevka](LICENSE-terminimal).
+The license of the Iosevka font is included in [LICENSE-iosevka](LICENSE-iosevka).
