@@ -1,6 +1,6 @@
 +++
 title = "Just a tool"
-date = 2026-07-24
+date = 2026-10-22
 +++
 
 With the emergence of AI and its criticism, the "Just a tool" argument is often used as
